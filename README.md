@@ -15,7 +15,11 @@ The class of  4th February : the class begins with the installation of Windows S
 
 The class of 11th February : today’s class dwelved into the understanding of basics of powershell which includes the creation of new directory and moving the items into that directory, which are downloaded from online resource i.e. MP3 file, Image, Google docs, WPS and VLC. 
 
+
 The class of 13th February : In today’s class the instructor taught about the Linux WSL. She taught the basic commands such as making text notes in pico including making and deleting directory, listing directory, listing the computer’s background functioning process, bash etc . In addition she gave us brief knowledge and history about Unix and Linux. 
 
 The class of 18th February : In today’s class the presentations happened . 
 
+The class of 4th March : In today's class instructor taught about the PICO editor and some linx commands, such as, chmod, bash, ps-aux, ps-ef, cat, wc, pipe, wc-l and the way to change the name of all directories at once ex : txt. (command : fot i `ls` ; do mv $i $i.txt. ; done) 
+
+The class of 13th March : It was the online class for short period. In this class instructor asked students to read the certain text, and asked to install linux through USB. 
