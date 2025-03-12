@@ -23,3 +23,5 @@ The class of 18th February : In today’s class the presentations happened .
 The class of 4th March : In today's class instructor taught about the PICO editor and some linx commands, such as, chmod, bash, ps-aux, ps-ef, cat, wc, pipe, wc-l and the way to change the name of all directories at once ex : txt. (command : fot i `ls` ; do mv $i $i.txt. ; done) 
 
 The class of 13th March : It was the online class for short period. In this class instructor asked students to read the certain text, and asked to install linux through USB. 
+
+The class of 11th March : It was the clas where the guest lecture happened. 
