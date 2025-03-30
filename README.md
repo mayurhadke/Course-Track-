@@ -22,6 +22,14 @@ The class of 18th February : In today’s class the presentations happened .
 
 The class of 4th March : In today's class instructor taught about the PICO editor and some linx commands, such as, chmod, bash, ps-aux, ps-ef, cat, wc, pipe, wc-l and the way to change the name of all directories at once ex : txt. (command : fot i `ls` ; do mv $i $i.txt. ; done) 
 
-The class of 13th March : It was the online class for short period. In this class instructor asked students to read the certain text, and asked to install linux through USB. 
+The class of 6th March : It was the online class for short period. In this class instructor asked students to read the certain text, and asked to install linux through USB boot. 
 
-The class of 11th March : It was the clas where the guest lecture happened. 
+The class of 11th March : It was the class where the guest lecture happened. 
+
+The class of 13th March : It was the class where quiz was taken on the shell commands. 
+
+The class of 20th March : in this class instructor taught how to rename all the files at once istead repeating the same process. [ for i `ls` ; do mv $ i $i.txt ; done ] 
+
+The class of 25th March : in this class instructor taught about mail climb and hardware connection. 
+
+The class of 27th March : It was the class where instructor explained the concepts of Internet Address or Internet Protocol Address (IP) along with the concepts such as Firewall(way of hiding my address), packaging of my data with additional data, acceptance and closure of server, HTTP and FTP. 
