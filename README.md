@@ -33,3 +33,5 @@ The class of 20th March : in this class instructor taught how to rename all the 
 The class of 25th March : in this class instructor taught about mail climb and hardware connection. 
 
 The class of 27th March : It was the class where instructor explained the concepts of Internet Address or Internet Protocol Address (IP) along with the concepts such as Firewall(way of hiding my address), packaging of my data with additional data, acceptance and closure of server, HTTP and FTP. 
+
+The class of 01st April : In today's class there was the short quiz on reading 
