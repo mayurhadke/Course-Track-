@@ -34,4 +34,4 @@ The class of 25th March : in this class instructor taught about mail climb and h
 
 The class of 27th March : It was the class where instructor explained the concepts of Internet Address or Internet Protocol Address (IP) along with the concepts such as Firewall(way of hiding my address), packaging of my data with additional data, acceptance and closure of server, HTTP and FTP. 
 
-The class of 01st April : In today's class there was the short quiz on reading 
+The class of 01st April : In today's class there was the short quiz on readings regarding the protocol and internet transmission etc. Moreover the instructor taught about the working with git in WSL. From creating the note with editor (Pico) to commiting changes including the steps of adding file and git status.
