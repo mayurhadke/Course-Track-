@@ -35,3 +35,6 @@ The class of 25th March : in this class instructor taught about mail climb and h
 The class of 27th March : It was the class where instructor explained the concepts of Internet Address or Internet Protocol Address (IP) along with the concepts such as Firewall(way of hiding my address), packaging of my data with additional data, acceptance and closure of server, HTTP and FTP. 
 
 The class of 01st April : In today's class there was the short quiz on readings regarding the protocol and internet transmission etc. Moreover the instructor taught about the working with git in WSL. From creating the note with editor (Pico) to commiting changes including the steps of adding file and git status. Along with thus instructor taught the history of Linux, its origin and development. 
+
+
+The class of 8th April : In today's class there was the guest lecture delivered by Bhanu Priya. Bhanu taught about the Artificial Neural Networks. She begin by comparatively explaining the artificial nural network with biological one. She explicitly described the function of artificial neural networks. In addition, she describes the Issues with McCulloch $ Pitts formation along with the Hebb's rule. Other topics were : Threshold functions, Binary Gates and How to train networks -- split the data into train and test sets, Estimation of loss, Backward Pass and Forward Pass. 
