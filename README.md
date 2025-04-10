@@ -38,3 +38,5 @@ The class of 01st April : In today's class there was the short quiz on readings 
 
 
 The class of 8th April : In today's class there was the guest lecture delivered by Bhanu Priya. Bhanu taught about the Artificial Neural Networks. She begin by comparatively explaining the artificial nural network with biological one. She explicitly described the function of artificial neural networks. In addition, she describes the Issues with McCulloch $ Pitts formation along with the Hebb's rule. Other topics were : Threshold functions, Binary Gates and How to train networks -- split the data into train and test sets, Estimation of loss, Backward Pass and Forward Pass. 
+
+The class of 10th April : In today's class short explanantion happened in class about the project. My group did short explanation about the : Credit Card funtioning , its challenges, security measure and future implications. 
